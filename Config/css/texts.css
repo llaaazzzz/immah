@@ -1,0 +1,68 @@
+/*La couleur des liens déjà visités*/
+a:visited
+{
+    color: rgba(165, 42, 42, 0.603);
+}
+
+/*Les polices des paragraphes*/
+p{
+    font-weight: bold;
+}
+
+p.Copyright{
+	font-family: "Times New Roman", serif;
+    font-weight: normal;
+	background-color:#5f5f55;
+	color: white;
+}
+
+/*La section Se connecter de la page de contact*/
+#Connexion{
+	font-family: "Times New Roman", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#h1a
+{
+	padding-left: 432px;
+	margin-top: 15px;
+	font-size: 30px;
+	color: rgb(63, 20, 20);
+	background-color: rgb(96, 95, 99);
+	font-family: "Kristen ITC", 'Times New Roman', sans-serif;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	position: relative;
+	top: 15px;
+	font-weight: bold;
+}
+/*Modifications sur le corps de connexion*/
+form{
+	width: 800px;
+}
+form span.formField
+{
+	width: inherit;
+	display: inline-block;
+	margin: 5px 0;
+}
+
+form label
+{
+	float: left;
+	width: 400px;
+	text-align: right;
+	padding: 6px;
+	font-weight: bold;
+}
+form input { 
+	padding : 6px;
+	margin-left : 20px;
+	background-color : #ddd ; 
+	border-style : groove ; 
+	border-width : 5px; 
+	border-color : #444; 
+	border-radius :10px; 
+}
+.copyright a{
+	color: black;
+}
