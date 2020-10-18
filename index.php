@@ -25,7 +25,7 @@
   <nav class="menu-nav">
     <ul>
       <li class="btn">
-        <a href="//localhost" title="Page d'Accueil">
+        <a href="#" title="Page d'Accueil">
           Accueil
         </a>
       </li>
