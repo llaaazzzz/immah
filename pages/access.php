@@ -29,27 +29,27 @@
                 </a>
             </li>
             <li class="btn">
-                <a href="//localhost/pages/shoes.php" title="Chaussures, Chaussettes">
+                <a href="shoes.php" title="Chaussures, Chaussettes">
                     Chaussures
                 </a>
             </li>
             <li class="btn">
-                <a href="//localhost/pages/cloths.php" title="Robes, Pantalons, T-Shirts, ...">
+                <a href="cloths.php" title="Robes, Pantalons, T-Shirts, ...">
                     Habits
                 </a>
             </li>
             <li class="btn">
-                <a href="//localhost/pages/access.php" title="Bijoux, Montres, Sacs...">
+                <a href="access.php" title="Bijoux, Montres, Sacs...">
                     Accessoires
                 </a>
             </li>
             <li class="btn">
-                <a href="//localhost/pages/tech.php" title="TV, Téléphones, Tablettes, Montres Connectées...">
+                <a href="tech.php" title="TV, Téléphones, Tablettes, Montres Connectées...">
                     High-Tech
                 </a>
             </li>
             <li class="btn">
-                <a href="//localhost/pages/contact.php" title="La page pour tout savoir sur nos services">
+                <a href="contact.php" title="La page pour tout savoir sur nos services">
                     A propos
                 </a>
             </li>
