@@ -6,7 +6,7 @@
         Accessoires - Immah Vente
     </title>
 
-    <?php include 'Includes/head.php' ?>
+    <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
 </head>
 
 <!--Site Web-->

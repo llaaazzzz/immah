@@ -6,6 +6,7 @@
         Vêtements - Immah Vente
     </title>
 </head>
+<link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
 
 <!--Site Web-->
 <body>

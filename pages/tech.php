@@ -5,7 +5,7 @@
     <title>
         High-Tech - Immah Vente
     </title>
-
+    <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
 </head>
 
 <!--Site Web-->
